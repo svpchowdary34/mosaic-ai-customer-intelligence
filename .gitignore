@@ -1,0 +1,10 @@
+.env
+*.key
+secrets*
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+mosaic_*.csv
+mosaic_*.json
+mosaic_*.md
+mosaic_*.html
